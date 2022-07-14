@@ -1,0 +1,429 @@
+[
+    {
+       "name":"Arghya Ghosh",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Ramkinkar Rout",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"Abu Faiz",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"R.Siddharth Sastry",
+       "college":"KIIT",
+       "age":23
+    },
+    {
+       "name":"Auditya Darshi Behera",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"Aditya Mohanty",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"Suchisman Mishra",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Atul Taneja",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"SHASHANK TIWARI",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Sanskar Shukla",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Harsh Priyadarshi",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Divyanshu Singh",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Nikhil Srivastava",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Dharani Chandra",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"RUDRA PRATAP BEHERA",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Kashif Jawed",
+       "college":"KIIT",
+       "age":23
+    },
+    {
+       "name":"Abhishek Raj Choudhary",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"Aman Agarwal",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Anushua Roy",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Ashwin Shrestha",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"Ashish Anand",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Jay Anand",
+       "college":"KIIT",
+       "age":21
+    },
+    {
+       "name":"FAISAL AHSAN KHAN",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"Shruti Banerjee",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"Deepshikha Sahu",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Sandipto Sen",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"Rajat Dixit",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"Nikhil Kumar",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Anuksha Pasayat",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Debarghya Mukherjee",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Pranab Das",
+       "college":"KIIT",
+       "age":21
+    },
+    {
+       "name":"Devesh Srivastava",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Pratyush Sahu",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Debarchan Nayek",
+       "college":"KIIT",
+       "age":23
+    },
+    {
+       "name":"Isha Kumari Jaiswal",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Aryamitra Chaudhuri",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"Sougata Das",
+       "college":"KIIT",
+       "age":21
+    },
+    {
+       "name":"Devansh Shaw",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"Vineet Kumar Pradhan",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Abhishek Ratan",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Md Asad Azam",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Badal Kumar Sah",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Alok Das",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Debabrata Panda",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Aaditya Gupta",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"Shubham Kumar",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Shantanu Roy",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Debdut Hansda",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Sankalp Wahane",
+       "college":"KIIT",
+       "age":23
+    },
+    {
+       "name":"Zaid Hashmi",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Sanchita Siddharth",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"Elisha Chatterjee",
+       "college":"KIIT",
+       "age":21
+    },
+    {
+       "name":"Anjali kumari",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Alankrita Shandilya",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Srijan Banerjee",
+       "college":"KIIT",
+       "age":23
+    },
+    {
+       "name":"Pranay Kumar Majee",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Priyanshu Nayak",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Sayak Roy Chowdhury",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Parth Patidar",
+       "college":"GIET",
+       "age":21
+    },
+    {
+       "name":"Mohit Yadav",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"SUNMITA PHUKAN",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Ansita Kumari",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"Abhijeet Pradhan",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"CHINMAYA BISWAL",
+       "college":"KIIT",
+       "age":23
+    },
+    {
+       "name":"Ritesh Senapati",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"Niwesh Kumar Suman",
+       "college":"ITER",
+       "age":23
+    },
+    {
+       "name":"Subhasis Mohapatra",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Anjali Bharuka",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"Kintali Srinivasa Rao",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Amit Kumar",
+       "college":"KIIT",
+       "age":21
+    },
+    {
+       "name":"Sandeep Ray",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"Utkarsh Udit",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Rahul Bhowmik",
+       "college":"KIIT",
+       "age":23
+    },
+    {
+       "name":"Ankur Singh",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"Shivam Kumar",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Sapnadip Baidya",
+       "college":"KIIT",
+       "age":22
+    },
+    {
+       "name":"Arunima Das",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"Yashraj Prakash",
+       "college":"ITER",
+       "age":21
+    },
+    {
+       "name":"Vikash Nayak",
+       "college":"KIIT",
+       "age":21
+    },
+    {
+       "name":"Subham Gupta",
+       "college":"GIET",
+       "age":22
+    },
+    {
+       "name":"Mayank Mohak",
+       "college":"ITER",
+       "age":31
+    },
+    {
+       "name":"Ayush Maurya",
+       "college":"KIIT",
+       "age":29
+    },
+    {
+       "name":"Rounak Kant Prasad",
+       "college":"GIET",
+       "age":23
+    },
+    {
+       "name":"YASH KUMAR",
+       "college":"ITER",
+       "age":22
+    },
+    {
+       "name":"Hrithik Sahu",
+       "college":"KIIT",
+       "age":22
+    }
+ ]
+ 
+ 
